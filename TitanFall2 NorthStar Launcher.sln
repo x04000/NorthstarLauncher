@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TitanFall2 NorthStar Launcher", "TitanFall2 NorthStar Launcher\TitanFall2 NorthStar Launcher.csproj", "{1C5D6790-C396-4FD4-A64C-6B321F761D95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C5D6790-C396-4FD4-A64C-6B321F761D95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C5D6790-C396-4FD4-A64C-6B321F761D95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C5D6790-C396-4FD4-A64C-6B321F761D95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C5D6790-C396-4FD4-A64C-6B321F761D95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {413452EA-A574-441F-A2A7-A768C03FBC29}
+	EndGlobalSection
+EndGlobal

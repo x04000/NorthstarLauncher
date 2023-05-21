@@ -1,0 +1,8 @@
+C:\Users\adria\source\repos\TitanFall2 NorthStar Launcher\TitanFall2 NorthStar Launcher\bin\Release\TitanFall2 NorthStar Launcher.exe.config
+C:\Users\adria\source\repos\TitanFall2 NorthStar Launcher\TitanFall2 NorthStar Launcher\bin\Release\TitanFall2 NorthStar Launcher.exe
+C:\Users\adria\source\repos\TitanFall2 NorthStar Launcher\TitanFall2 NorthStar Launcher\bin\Release\TitanFall2 NorthStar Launcher.pdb
+C:\Users\adria\source\repos\TitanFall2 NorthStar Launcher\TitanFall2 NorthStar Launcher\obj\Release\TitanFall2 NorthStar Launcher.csproj.AssemblyReference.cache
+C:\Users\adria\source\repos\TitanFall2 NorthStar Launcher\TitanFall2 NorthStar Launcher\obj\Release\TitanFall2 NorthStar Launcher.csproj.SuggestedBindingRedirects.cache
+C:\Users\adria\source\repos\TitanFall2 NorthStar Launcher\TitanFall2 NorthStar Launcher\obj\Release\TitanFall2 NorthStar Launcher.csproj.CoreCompileInputs.cache
+C:\Users\adria\source\repos\TitanFall2 NorthStar Launcher\TitanFall2 NorthStar Launcher\obj\Release\TitanFall2 NorthStar Launcher.exe
+C:\Users\adria\source\repos\TitanFall2 NorthStar Launcher\TitanFall2 NorthStar Launcher\obj\Release\TitanFall2 NorthStar Launcher.pdb
