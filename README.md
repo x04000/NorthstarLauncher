@@ -1,5 +1,6 @@
 # NorthstarLauncher
 A launcher of Titanfall 2 Northstar (FlightCore) for Windows
+![image](https://github.com/x04000/NorthstarLauncher/assets/78761999/8fb1bae0-485d-4fba-8977-624428c94432)
 # How it works
 This is only a launcher, for start fast the FlightCore and count how much did you play this mod.
 # FlightCore
