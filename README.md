@@ -9,3 +9,4 @@ This version works with the Northstar FlightCore Launcher. The default location 
 This program have an internal hours played counter to check how much you played this game.
 # Updates
 This project is too old, but im going to update this project because now it is very shabby XD
+# This project doesn't have any correlation with Northstar, Titanfall, EA and Respawn. This is only a fan project.
